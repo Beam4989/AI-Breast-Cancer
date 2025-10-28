@@ -1,0 +1,1 @@
+Per-column arrays must each be 1-dimensional
